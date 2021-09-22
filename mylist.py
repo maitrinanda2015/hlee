@@ -1,0 +1,9 @@
+my_list=[1,2,3,4,5]
+my_list.clear()
+print(my_list)
+myList=[1,3,4,7]
+myList1=myList.copy()
+print(myList1)
+my_list=[1,2,3,4]
+my_list.reverse()
+print(my_list)
